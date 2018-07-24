@@ -81,7 +81,4 @@ public class Power {
         return result;
     }
 
-    public static void main(String[] args){
-        System.out.print(8 & 1);
-    }
 }
