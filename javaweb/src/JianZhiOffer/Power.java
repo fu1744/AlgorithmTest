@@ -74,11 +74,7 @@ public class Power {
         for (int i = 1;i <= Math.abs(exponent);i++){
             result *= base;
         }
-        //如果exponent为负数的情况
-        if(exponent<0){
-            result = 1/result;
-        }
-        return result;
+        return exponent > 0 ? result : (1/result);
     }
 
 }
