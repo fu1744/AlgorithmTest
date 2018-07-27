@@ -1,13 +1,3 @@
-/**
- * Copyright (C),2018, 宜信
- * FileName: TowStackForQueue
- * Author:   FuJianXin
- * Date:     2018/7/26 0:41
- * Description: 用两个栈实现队列
- * History:
- * <author>          <time>          <version>          <desc>
- * 作者姓名           修改时间           版本号              描述
- */
 package JianZhiOffer;
 
 import java.util.Stack;

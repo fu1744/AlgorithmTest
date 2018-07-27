@@ -1,13 +1,3 @@
-/**
- * Copyright (C),2018, 宜信
- * FileName: replaceSpace
- * Author:   FuJianXin
- * Date:     2018/7/26 0:35
- * Description: 替换空格
- * History:
- * <author>          <time>          <version>          <desc>
- * 作者姓名           修改时间           版本号              描述
- */
 package JianZhiOffer;
 
 /**

@@ -1,13 +1,3 @@
-/**
- * Copyright (C),2018, 宜信
- * FileName: FindKthToTail
- * Author:   FuJianXin
- * Date:     2018/7/24 19:26
- * Description: 链表中倒数第k个结点
- * History:
- * <author>          <time>          <version>          <desc>
- * 作者姓名           修改时间           版本号              描述
- */
 package JianZhiOffer;
 
 /**

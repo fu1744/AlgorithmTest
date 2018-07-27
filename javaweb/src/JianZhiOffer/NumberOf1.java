@@ -1,13 +1,3 @@
-/**
- * Copyright (C), 2018, 宜信
- * FileName: NumberOf1
- * Author:   Administrator
- * Date:     2018/7/5 16:59
- * Description: 二进制数中1的个数
- * History:
- * <author>          <time>          <version>          <desc>
- * 作者姓名           修改时间           版本号              描述
- */
 package JianZhiOffer;
 
 /**

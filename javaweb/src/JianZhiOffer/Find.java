@@ -1,13 +1,3 @@
-/**
- * Copyright (C),2018, 宜信
- * FileName: Find
- * Author:   FuJianXin
- * Date:     2018/7/26 0:33
- * Description: 二维数组中的查找
- * History:
- * <author>          <time>          <version>          <desc>
- * 作者姓名           修改时间           版本号              描述
- */
 package JianZhiOffer;
 
 /**

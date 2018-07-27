@@ -1,13 +1,3 @@
-/**
- * Copyright (C), 2018, 宜信
- * FileName: Power
- * Author:   FuJianXin
- * Date:     2018/7/13 17:54
- * Description: 计算数值的整数次方
- * History:
- * <author>          <time>          <version>          <desc>
- * 作者姓名           修改时间           版本号              描述
- */
 package JianZhiOffer;
 
 /**

@@ -1,13 +1,3 @@
-/**
- * Copyright (C),2018, 宜信
- * FileName: minNumberInRotateArray
- * Author:   FuJianXin
- * Date:     2018/7/26 0:42
- * Description: 旋转数组的最小数
- * History:
- * <author>          <time>          <version>          <desc>
- * 作者姓名           修改时间           版本号              描述
- */
 package JianZhiOffer;
 
 /**

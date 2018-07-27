@@ -1,13 +1,3 @@
-/**
- * Copyright (C),2018, 宜信
- * FileName: ReverseList
- * Author:   FuJianXin
- * Date:     2018/7/26 0:25
- * Description: 反转链表
- * History:
- * <author>          <time>          <version>          <desc>
- * 作者姓名           修改时间           版本号              描述
- */
 package JianZhiOffer;
 
 /**

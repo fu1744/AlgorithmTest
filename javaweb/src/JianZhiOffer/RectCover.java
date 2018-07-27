@@ -1,13 +1,3 @@
-/**
- * Copyright (C),2018, 宜信
- * FileName: RectCover
- * Author:   FuJianXin
- * Date:     2018/7/20 18:26
- * Description: 我们可以用2*1的小矩形横着或者竖着去覆盖更大的矩形。请问用n个2*1的小矩形无重叠地覆盖一个2*n的大矩形，总共有多少种方法？
- * History:
- * <author>          <time>          <version>          <desc>
- * 作者姓名           修改时间           版本号              描述
- */
 package JianZhiOffer;
 
 /**

@@ -1,13 +1,3 @@
-/**
- * Copyright (C),2018, 宜信
- * FileName: ReOrderArray
- * Author:   FuJianXin
- * Date:     2018/7/24 18:03
- * Description: 调整数组顺序使奇数位于偶数前面
- * History:
- * <author>          <time>          <version>          <desc>
- * 作者姓名           修改时间           版本号              描述
- */
 package JianZhiOffer;
 
 /**
