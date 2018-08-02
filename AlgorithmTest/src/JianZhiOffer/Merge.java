@@ -28,6 +28,7 @@ public class Merge {
         if (list2 == null){
             return list1;
         }
+        //说明list1的头结点更小
         if (list1.val <= list2.val){
             list1.next = method1(list1.next,list2);
             return list1;
