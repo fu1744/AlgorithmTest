@@ -1,4 +1,4 @@
-package JianZhiOffer;
+package jianzhioffer;
 
 /**
  *〈一句话功能简述〉<br>
