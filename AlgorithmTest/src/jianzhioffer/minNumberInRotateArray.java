@@ -4,7 +4,7 @@ package jianzhioffer;
  * 〈一句话功能简述〉<br>
  * 〈旋转数组的最小数〉
  *
- * @author FuJianXin
+ * @author 一个鲁肃
  * @create 2018/7/26
  * @since 1.0.0
  */
@@ -45,7 +45,7 @@ public class minNumberInRotateArray {
      * @param：arr index1 index2
      * @return:
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/26 0:43
      */
     public int find(int[] arr, int index1, int index2) {
@@ -66,7 +66,7 @@ public class minNumberInRotateArray {
      * @param：array
      * @return:
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/26 0:45
      */
     public int method2(int[] array) {

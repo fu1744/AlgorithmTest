@@ -7,7 +7,7 @@ import java.util.Stack;
  * 〈一句话功能简述〉<br> 
  * 〈从头到尾打印链表〉
  *
- * @author FuJianXin
+ * @author 一个鲁肃
  * @create 2018/7/26
  * @since 1.0.0
  */
@@ -20,7 +20,7 @@ public class printListFromTailToHead {
      * @param：listNode
      * @return:
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/26 0:37
      */
     public ArrayList<Integer> method1(ListNode listNode) {
@@ -44,7 +44,7 @@ public class printListFromTailToHead {
      * @param：listNode
      * @return:
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/26 0:37
      */
     public ArrayList<Integer> method2(ListNode listNode) {

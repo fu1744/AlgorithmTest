@@ -4,7 +4,7 @@ package jianzhioffer;
  * 〈一句话功能简述〉<br> 
  * 〈二进制数中1的个数〉
  *
- * @author Fujianxin
+ * @author 一个鲁肃
  * @create 2018/7/5
  * @since 1.0.0
  */
@@ -14,9 +14,9 @@ public class NumberOf1 {
     /**
      * 功能描述: <br>
      * 〈该函数计算二进制数中1的个数〉
-     * @return:int
+     * @return: int
      * @since: 1.0.0
-     * @Author:Fujianxin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/5 18:29
      */
     public int method1(int num) {
@@ -34,9 +34,9 @@ public class NumberOf1 {
     /**
      * 功能描述: <br>
      * 〈该函数计算二进制数中1的个数〉
-     * @return:int
+     * @return: int
      * @since: 1.0.0
-     * @Author:Fujianxin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/5 18:29
      */
     public int method2(int num) {
@@ -55,9 +55,9 @@ public class NumberOf1 {
     /**
      * 功能描述: <br>
      * 〈该函数计算二进制数中1的个数〉
-     * @return:int
+     * @return: int
      * @since: 1.0.0
-     * @Author:Fujianxin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/5 18:29
      */
     public int method3(int num) {

@@ -4,7 +4,7 @@ package jianzhioffer;
  * 〈一句话功能简述〉<br>
  * 〈斐波那契数列〉
  *
- * @author FuJianXin
+ * @author 一个鲁肃
  * @create 2018/7/26
  * @since 1.0.0
  */

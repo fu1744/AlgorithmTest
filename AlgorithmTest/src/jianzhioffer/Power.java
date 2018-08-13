@@ -4,7 +4,7 @@ package jianzhioffer;
  *〈一句话功能简述〉<br>
  *〈计算数值的整数次方〉
  *
- * @author FuJianXin
+ * @author 一个鲁肃
  * @create 2018/7/13
  * @since 1.0.0
  */
@@ -18,7 +18,7 @@ public class Power {
      * @param：base exponent
      * @return: double
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/24 0:50
      */
     public double method1(double base, int exponent){
@@ -48,7 +48,7 @@ public class Power {
      * @param：base exponent
      * @return: double
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/24 0:56
      */
     public double method2(double base, int exponent){

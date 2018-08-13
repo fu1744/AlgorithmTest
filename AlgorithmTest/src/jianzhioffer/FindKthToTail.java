@@ -4,7 +4,7 @@ package jianzhioffer;
  *〈一句话功能简述〉<br>
  *〈链表中倒数第k个结点〉
  *
- * @author FuJianXin
+ * @author 一个鲁肃
  * @create 2018/7/24
  * @since 1.0.0
  */
@@ -12,15 +12,14 @@ public class FindKthToTail {
 
     /**
      * 功能描述: <br>
-     * 〈〉
+     *〈返回链表的倒数第k个结点〉
      *
      * @param：node
-     * @return:
+     * @return: ListNode
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/24 19:28
      */
-
     public ListNode method1(ListNode node,int k){
         //代码的鲁棒性
         if (node == null){
@@ -82,7 +81,7 @@ public class FindKthToTail {
  * 功能描述:
  *〈自定义ListNode结点类〉
  * @since: 1.0.0
- * @Author:FuJianXin
+ * @Author: 一个鲁肃
  * @Date: 2018/7/24 19:29
  */
 class ListNode {

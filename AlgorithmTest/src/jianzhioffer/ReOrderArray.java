@@ -4,7 +4,7 @@ package jianzhioffer;
  * 〈一句话功能简述〉<br> 
  * 〈调整数组顺序使奇数位于偶数前面〉
  *
- * @author FuJianXin
+ * @author 一个鲁肃
  * @create 2018/7/24
  * @since 1.0.0
  */
@@ -17,7 +17,7 @@ public class ReOrderArray {
      * @param：array
      * @return:
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/24 18:59
      */
     public void method1(int[] array){
@@ -48,7 +48,7 @@ public class ReOrderArray {
      * @param：array
      * @return:
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/24 19:09
      */
 
@@ -71,10 +71,10 @@ public class ReOrderArray {
      * 功能描述: <br>
      *〈交换位置的方法〉
      *
-     * @param：
+     * @param：arr i j
      * @return:
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/24 19:20
      */
     public void swap(int[] arr, int i, int j){

@@ -4,7 +4,7 @@ package jianzhioffer;
  *〈一句话功能简述〉<br>
  *〈变态跳台阶〉
  *
- * @author FuJianXin
+ * @author 一个鲁肃
  * @create 2018/7/31
  * @since 1.0.0
  */
@@ -38,7 +38,7 @@ public class JumpFloorII {
      * @param：target
      * @return: int
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/31 14:19
      */
     public int method2(int target){
@@ -56,7 +56,7 @@ public class JumpFloorII {
      * @param：target
      * @return: int
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/31 14:19
      */
     public int method3(int target){

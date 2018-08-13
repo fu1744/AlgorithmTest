@@ -4,7 +4,7 @@ package jianzhioffer;
  * 〈一句话功能简述〉<br> 
  * 〈树的子结构〉
  *
- * @author FuJianXin
+ * @author 一个鲁肃
  * @create 2018/7/27
  * @since 1.0.0
  */
@@ -54,7 +54,7 @@ public class HasSubtree {
  * 功能描述: <br>
  *〈TreeNode节点类〉
  * @since: 1.0.0
- * @Author:FuJianXin
+ * @Author: 一个鲁肃
  * @Date: 2018/7/27 18:31
  */
 class TreeNode {

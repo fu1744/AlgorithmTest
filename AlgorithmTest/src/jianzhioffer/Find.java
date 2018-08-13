@@ -4,7 +4,7 @@ package jianzhioffer;
  * 〈一句话功能简述〉<br> 
  * 〈二维数组中的查找〉
  *
- * @author FuJianXin
+ * @author 一个鲁肃
  * @create 2018/7/26
  * @since 1.0.0
  */
@@ -12,7 +12,7 @@ public class Find {
 
     public boolean method(int target, int [][] array) {
         //此处注意代码的鲁棒性
-        if(array.length == 0 || array == null){
+        if(array.length == 0){
             return false;
         }
         int low = 0;

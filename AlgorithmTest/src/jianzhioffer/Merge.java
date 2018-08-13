@@ -4,7 +4,7 @@ package jianzhioffer;
  * 〈一句话功能简述〉<br> 
  * 〈合并两个排序链表〉
  *
- * @author FuJianXin
+ * @author 一个鲁肃
  * @create 2018/7/26
  * @since 1.0.0
  */
@@ -15,9 +15,9 @@ public class Merge {
      *〈递归解法〉
      *
      * @param：list1 list2
-     * @return:
+     * @return: ListNode
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/27 18:04
      */
     private ListNode method1(ListNode list1, ListNode list2) {
@@ -43,9 +43,9 @@ public class Merge {
      *〈非递归解法〉
      *
      * @param：list1 list2
-     * @return:
+     * @return: ListNode
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/27 18:04
      */
     public ListNode method2(ListNode list1,ListNode list2) {

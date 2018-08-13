@@ -5,7 +5,7 @@ package jianzhioffer;
  * 〈我们可以用2*1的小矩形横着或者竖着去覆盖更大的矩形。
  *   请问用n个2*1的小矩形无重叠地覆盖一个2*n的大矩形，总共有多少种方法？〉
  *
- *  @author FuJianXin
+ *  @author 一个鲁肃
  *  @create 2018/7/20
  *  @since 1.0.0
  */
@@ -18,7 +18,7 @@ public class RectCover {
      * @param：target
      * @return: int
      * @since: 1.0.0
-     * @Author:FuJianXin
+     * @Author: 一个鲁肃
      * @Date: 2018/7/20 18:27
      */
     public int method(int target){
