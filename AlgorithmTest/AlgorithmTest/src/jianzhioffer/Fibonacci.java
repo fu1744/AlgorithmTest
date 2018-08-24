@@ -1,8 +1,10 @@
 package jianzhioffer;
 
 /**
- * 〈一句话功能简述〉<br>
- * 〈斐波那契数列〉
+ *〈一句话功能简述〉<br>
+ *〈斐波那契数列〉
+ * 题目描述：
+ * 大家都知道斐波那契数列，现在要求输入一个整数n，请你输出斐波那契数列的第n项。n<=39
  *
  * @author 一个鲁肃
  * @create 2018/7/26
@@ -10,7 +12,7 @@ package jianzhioffer;
  */
 public class Fibonacci {
 
-    public int metho1(int n) {
+    public int method1(int n) {
         //代码的鲁棒性
         if (n <= 1) {
             return n;
