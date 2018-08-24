@@ -5,6 +5,8 @@ import java.util.Stack;
 /**
  *〈一句话功能简述〉<br>
  *〈二叉树的镜像〉
+ * 题目描述：
+ * 操作给定的二叉树，将其变换为源二叉树的镜像。
  *
  * @author 一个鲁肃
  * @create 2018/7/30
@@ -47,6 +49,8 @@ public class Mirror {
     /**
      * 额外空间栈
      * @param root 根节点
+     * @since: 1.0.0
+     * @Author: 一个鲁肃
      */
     public void mirror1(TreeNode root){
         //代码的鲁棒性

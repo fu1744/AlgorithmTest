@@ -3,6 +3,8 @@ package jianzhioffer;
 /**
  *〈一句话功能简述〉<br>
  *〈计算数值的整数次方〉
+ * 题目描述：
+ * 给定一个double类型的浮点数base和int类型的整数exponent。求base的exponent次方。
  *
  * @author 一个鲁肃
  * @create 2018/7/13

@@ -5,6 +5,8 @@ import java.util.Stack;
 /**
  *〈一句话功能简述〉<br>
  *〈实现一个包含getMin函数的栈空间〉
+ * 题目描述：
+ * 用两个栈来实现一个队列，完成队列的Push和Pop操作。 队列中的元素为int类型。
  *
  * @author 一个鲁肃
  * @create 2018/8/14

@@ -4,8 +4,10 @@ import java.util.ArrayList;
 import java.util.Stack;
 
 /**
- * 〈一句话功能简述〉<br> 
- * 〈从头到尾打印链表〉
+ *〈一句话功能简述〉<br>
+ *〈从头到尾打印链表〉
+ * 题目描述：
+ * 输入一个链表，按链表值从尾到头的顺序返回一个ArrayList。
  *
  * @author 一个鲁肃
  * @create 2018/7/26
