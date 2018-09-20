@@ -1,28 +1,70 @@
 package jianzhioffer;
 
+
 import java.util.ArrayList;
 
 /**
- *〈一句话功能简述〉<br>
- *〈顺时针打印矩阵〉
- * 题目描述：
- * 输入一个矩阵，按照从外向里以顺时针的顺序依次打印出每一个数字，
- * 例如，如果输入如下4 X 4矩阵： 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
- *             则依次打印出数字 1,2,3,4,8,12,16,15,14,13,9,5,6,7,11,10.
+ * 〈一句话功能简述〉<br>
+ * 〈〉
  *
- * @author 一个鲁肃
- * @create 2018/8/14
+ * @author FuJianXin
+ * @create 2018/9/19
  * @since 1.0.0
  */
 public class PrintMatrix {
 
-    public ArrayList<Integer> printMatrix(int [][] matrix) {
-        //存储结果集
-        ArrayList<Integer> list = new ArrayList<>();
+    /**
+     * 存储结果集
+     */
+    private static ArrayList<Integer> list = new ArrayList<>();
 
-
-        return null;
+    public static ArrayList<Integer> printMatrix(int[][] matrix) {
+        int rowA = 0;
+        int colA = 0;
+        int rowB = matrix.length - 1;
+        int colB = matrix[0].length - 1;
+        while (rowB >= rowA && colB >= colA) {
+            //直到每一圈都打印完
+            print(matrix, rowA++, colA++, rowB--, colB--);
+        }
+        return list;
     }
 
+    /**
+     * 打印方法
+     */
+    public static void print(int[][] matrix, int rowA, int colA, int rowB, int colB) {
+        //如果矩阵是一横行
+        if (rowA == rowB) {
+            for (int i = colA; i <= colB; i++) {
+                list.add(matrix[rowA][i]);
+            }
+            //如果矩阵是一竖列
+        } else if (colA == colB) {
+            for (int i = rowA; i <= rowB; i++) {
+                list.add(matrix[i][colA]);
+            }
+            //一般情况
+        } else {
+            int cur1 = rowA;
+            int cur2 = colA;
+            while (cur2 != colB) {
+                list.add(matrix[rowA][cur2]);
+                cur2++;
+            }
+            while (cur1 != rowB) {
+                list.add(matrix[cur1][colB]);
+                cur1++;
+            }
+            while (cur2 != colA) {
+                list.add(matrix[rowB][cur2]);
+                cur2--;
+            }
+            while (cur1 != rowA) {
+                list.add(matrix[cur1][colA]);
+                cur1--;
+            }
+        }
+    }
 
 }
