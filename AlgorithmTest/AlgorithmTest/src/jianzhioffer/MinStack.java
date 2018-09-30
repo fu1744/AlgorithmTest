@@ -17,12 +17,12 @@ public class MinStack {
     /**
      * 使用一个额外的栈,用来存储最小值
      */
-    private Stack<Integer> minStack;
+    private Stack<Integer> minStack = new Stack<>();
 
     /**
      * 用于用于存储压栈的数字
      */
-    private Stack<Integer> dataStack;
+    private Stack<Integer> dataStack = new Stack<>();
 
 
     public void push(Integer num){
