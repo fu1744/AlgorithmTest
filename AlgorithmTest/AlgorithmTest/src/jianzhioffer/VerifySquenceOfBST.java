@@ -45,6 +45,9 @@ public class VerifySquenceOfBST {
     /**
      * 功能描述: <br>
      *〈递归版本〉
+     * 采取分治思想,左子树<根<=右子树
+     *     首先找到根节点，二叉树的后序遍历最后一个节点就是根节点
+     *     然后从头遍历找到第一个比根节点大的数字，此时分为左子树和右子树，进行分治判断
      *
      * @param：sequence
      * @return: boolean
